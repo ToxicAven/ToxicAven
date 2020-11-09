@@ -1,8 +1,8 @@
-### Hi there, I'm Jacob!
+## Hi there, I'm Jacob!
 
 I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking.) I am (Almost) Always up for a conversation about coding, weather it be a Teaching or Learning oppertunity!
 
-## 🔭 What I’m currently working on
+### 🔭 What I’m currently working on
 
 - Onryx, a Fun-and-Games Discord Bot, With a Number of stat checks!
 
