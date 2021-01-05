@@ -37,4 +37,4 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 
 - Discord: `ToxicAven#3678`
 
-[![Jacob Herd's github stats](https://github-readme-stats.vercel.app/api?username=ToxicAven)](https://github.com/anuraghazra/github-readme-stats)
+[![Jacob Herd's github stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&show_icons=true&theme=dark)]
