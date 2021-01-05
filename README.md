@@ -5,7 +5,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### 🔭 What I’m currently working on
 
 - Onryx, a Fun-and-Games Discord Bot, With a Number of stat checks!
-- Learning Web Development, using Pug.js, Sass, and JQuery.
+- Hardware-Bound Software, Via HWID
 - The Ins and Outs of APIs
 
 ### Languages I Know
