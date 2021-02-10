@@ -27,7 +27,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### ⚡ Communities I Am Active In
 
 - Minecraft
-  - Anarchy (Work with Motorway Extention Gurus (www.meg.one)
+  - Anarchy (Work with Motorway Extention Gurus ([MEG's Website](https://meg.one))
   - Minigames (Hypixel, Mostly)
   - Modding (Working on Learning Forge 1.12.2, and Fabric Latest)
 - Furry
@@ -37,4 +37,4 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 
 - Discord: `ToxicAven#3678`
 
-[![Jacob Herd's github stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&show_icons=true&theme=dark)]
+![Jacob Herd's github stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&show_icons=true&theme=dark)
