@@ -11,18 +11,14 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### Languages I Know
 
 - Javascript
+- C
 - C++
 - Java
-- Python, But I hate it
+- Python, But I hate it (If python doesn't compile, does that mean it's non-binary?)
 
 #### Languages Im learning
 
 - Kotlin
-- V
-- 6502 ASM (for some reason)
-- C
-- Typescript
-- Coffeescript
 
 ### ⚡ Communities I Am Active In
 
