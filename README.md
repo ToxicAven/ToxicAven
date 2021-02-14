@@ -1,23 +1,20 @@
 ## Hi there, I'm Jacob!
 
-I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking.) I am (Almost) Always up for a conversation about coding, weather it be a Teaching or Learning oppertunity!
+I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about coding, weather it be a Teaching or Learning oppertunity!
 
-### 🔭 What I’m currently working on
+### 🔭 What I Am Working on
 
-- Onryx, a Fun-and-Games Discord Bot, With a Number of stat checks!
-- Hardware-Bound Software, Via HWID
-- The Ins and Outs of APIs
+- Learning Visual Basic
 
-### Languages I Know
+### Languages I have functioning experience in
 
 - Javascript
 - C
-- C++
 - Java
-- Python, But I hate it (If python doesn't compile, does that mean it's non-binary?)
-
+- Python
 #### Languages Im learning
 
+- Visual Basic
 - Kotlin
 
 ### ⚡ Communities I Am Active In
@@ -26,8 +23,6 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
   - Anarchy (Work with Motorway Extention Gurus ([MEG's Website](https://meg.one))
   - Minigames (Hypixel, Mostly)
   - Modding (Working on Learning Forge 1.12.2, and Fabric Latest)
-- Furry
-  - My sona is Feline!
 
 ### 📫 How to contact me
 
