@@ -8,7 +8,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 
 ### Languages I have functioning experience in
 
-- Javascript
+- Node.js
 - C
 - Java
 - Python
