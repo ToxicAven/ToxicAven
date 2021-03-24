@@ -33,6 +33,8 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 - AvenUtility, A custom Minecraft utility mod focused around [2B2T](https://en.wikipedia.org/wiki/2b2t) (Private repo)
 - [HardwareIdentifier](https://github.com/ToxicAven/HardwareIdentifier), the most basic way to generate a Hardware ID
 
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&hide=stars,contribs)
+
 ### 📫 How to contact me
 
 - Discord: `ToxicAven#3678`
