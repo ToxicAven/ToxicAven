@@ -32,7 +32,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 - [Onryx](https://github.com/ToxicAven/onryx), A small Discord bot I made to get aquainted with Node and D.js
 - [HardwareIdentifier](https://github.com/ToxicAven/HardwareIdentifier), the most basic way to generate a Hardware ID
 
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs)
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight)
 
 ### 📫 How to contact me
 
