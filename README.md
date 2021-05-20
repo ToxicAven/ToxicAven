@@ -35,7 +35,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 - [Kami Blue](https://github.org/kami-blue/client), A now archived minecraft utility mod aimed at anarchy servers
   - Kami Blue is being continued as [Lambda Client](https://github.com/lambda-client/lambda)
 
-![Jacob Herd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight)
+![Jacob Herd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&redirect=true)
 
 ### 📫 How to contact me
 
