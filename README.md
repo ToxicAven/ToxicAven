@@ -21,7 +21,6 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 #### Languages Im learning
 
 - Visual Basic
-- Rust
 
 ### ✨ Communities I Am Active In
 
