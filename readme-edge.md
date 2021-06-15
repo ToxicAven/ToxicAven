@@ -28,16 +28,27 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
   - Anarchy, I Work with the Motorway Extention Gurus! [MEG's Website](https://meg.one)
   - Modding (Particularly for Anarchy servers)
 
-### 💎 My Latest Project!
-- [Lambda Client](https://github.com/lambda-client/lambda), (Formerly [Kami Blue](https://github.org/kami-blue/client)), an open source minecraft utility mod aimed at anarchy servers with an emphasis on community
+### 💎 Projects I have worked on
 
-![Jacob Herd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&redirect=true)
+- [Onryx](https://github.com/ToxicAven/onryx), A small Discord bot I made to get aquainted with Node and D.js
+- [Kami Blue](https://github.org/kami-blue/client), A now archived minecraft utility mod aimed at anarchy servers
+  - Kami Blue is being continued as [Lambda Client](https://github.com/lambda-client/lambda)
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jacobherd229543&cover_image=true&theme=default" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Jacob Herd's Github stats" src="https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight">
+</p>
 
 ### 📫 How to contact me
 
 - Discord: `ToxicAven#3678`
-- Keybase: `toxicaven`
 - Matrix: `@toxicaven:matrix.org`
+- I no longer use keybase for public contact, please do not send me a message there.
 
 ### 🖌️ Minecraft 1.12.2 Resource Packs
 
@@ -59,3 +70,4 @@ I also made a few textures on the Motorway Extension Guru's <a href="https://meg
 </ul>
 
 </details>
+
