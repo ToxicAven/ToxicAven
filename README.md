@@ -11,16 +11,9 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### ⚙️ Languages I have functioning experience in
 
 - Node.js
-  - Express
-  - Discord.js
-  - (Learning) Stockfish.js
 - C++
 - Java/Kotlin
 - Python
-
-#### Languages Im learning
-
-- Visual Basic
 
 ### ✨ Communities I Am Active In
 
