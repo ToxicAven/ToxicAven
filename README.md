@@ -11,15 +11,12 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### ⚙️ Languages I have functioning experience in
 
 - Node.js
-- C++
 - Java/Kotlin
-- Python
 
 ### ✨ Communities I Am Active In
 
 - Minecraft
   - Anarchy, I Work with the Motorway Extention Gurus! [MEG's Website](https://meg.one)
-  - Modding (Particularly for Anarchy servers)
 
 ### 💎 Projects I have worked on
 
