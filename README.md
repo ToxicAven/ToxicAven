@@ -1,12 +1,13 @@
 ## 😸 Hai, I'm Jacob!
 
-I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about programming, whether it be a Teaching or Learning oppertunity!
+I am A High School Sophomore Currently In Vocational School for Computer Programming. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about programming, whether it be a Teaching or Learning oppertunity!
 
 ### 🚀 What I Am Working on
 
 - School
-- Making Minecraft Mods, Resource packs, and Utilities
+- Making Minecraft... stuff
 - Random Side Projects
+- Learning Web design & working on my Website!
 
 ### ⚙️ Languages I have functioning experience in
 
